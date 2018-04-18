@@ -1,0 +1,20 @@
+E:\Progs\С#\Thirdlab_SIDapp\ThirdLab_sidApp_csharp\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Progs\С#\Thirdlab_SIDapp\ThirdLab_sidApp_csharp\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Progs\С#\Thirdlab_SIDapp\ThirdLab_sidApp_csharp\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Progs\С#\Thirdlab_SIDapp\ThirdLab_sidApp_csharp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+E:\Progs\С#\Thirdlab_SIDapp\ThirdLab_sidApp_csharp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EditForm.resources
+E:\Progs\С#\Thirdlab_SIDapp\ThirdLab_sidApp_csharp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Progs\С#\Thirdlab_SIDapp\ThirdLab_sidApp_csharp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Progs\С#\Thirdlab_SIDapp\ThirdLab_sidApp_csharp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+E:\Progs\С#\Thirdlab_SIDapp\ThirdLab_sidApp_csharp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Progs\С#\Thirdlab_SIDapp\ThirdLab_sidApp_csharp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Учеба\2 курс\Проектирование и тестирование ПО\ЛР\ЛР3\ThirdLab_sidApp_csharp-master\ThirdLab_sidApp_csharp-master\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Учеба\2 курс\Проектирование и тестирование ПО\ЛР\ЛР3\ThirdLab_sidApp_csharp-master\ThirdLab_sidApp_csharp-master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Учеба\2 курс\Проектирование и тестирование ПО\ЛР\ЛР3\ThirdLab_sidApp_csharp-master\ThirdLab_sidApp_csharp-master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Учеба\2 курс\Проектирование и тестирование ПО\ЛР\ЛР3\ThirdLab_sidApp_csharp-master\ThirdLab_sidApp_csharp-master\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Учеба\2 курс\Проектирование и тестирование ПО\ЛР\ЛР3\ThirdLab_sidApp_csharp-master\ThirdLab_sidApp_csharp-master\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Учеба\2 курс\Проектирование и тестирование ПО\ЛР\ЛР3\ThirdLab_sidApp_csharp-master\ThirdLab_sidApp_csharp-master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\Учеба\2 курс\Проектирование и тестирование ПО\ЛР\ЛР3\ThirdLab_sidApp_csharp-master\ThirdLab_sidApp_csharp-master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EditForm.resources
+D:\Учеба\2 курс\Проектирование и тестирование ПО\ЛР\ЛР3\ThirdLab_sidApp_csharp-master\ThirdLab_sidApp_csharp-master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Учеба\2 курс\Проектирование и тестирование ПО\ЛР\ЛР3\ThirdLab_sidApp_csharp-master\ThirdLab_sidApp_csharp-master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Учеба\2 курс\Проектирование и тестирование ПО\ЛР\ЛР3\ThirdLab_sidApp_csharp-master\ThirdLab_sidApp_csharp-master\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
